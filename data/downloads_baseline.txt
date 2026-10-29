@@ -1,4 +1,0 @@
-# Number of downloads of TubeArchive Pro known when this setup was built (shown in the corner until the
-# online file downloads_counter.txt can be read). Lines: "v1.0.12 = 320" or "old versions = 1250"; "total = N" overrides the sum.
-# Leave it at 0 to hide the counter until the first successful online check.
-total = 0
