@@ -94,6 +94,7 @@ class PageFlow(unittest.TestCase):
     def test_fetch_and_filter_and_estimate(self):
         p = self.page
         self.load_link()
+        wait(lambda: "Video found: Summer Vlog" in self.log())        # the log line is written just after the state changes (a thread race on Windows)
         self.assertIn("Video found: Summer Vlog", self.log())
         p.quality.setCurrentIndex(p.quality.findData(1080))
         self.assertIn("Estimated size: 78 MB", p.meta.text())

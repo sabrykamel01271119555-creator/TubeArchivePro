@@ -74,7 +74,7 @@ class Ads(unittest.TestCase):
         self.assertEqual([Path(p).name for p in r["files"]], ["tubearchivepro-2026-10_summer.gif"])
 
     def test_read_text_file_and_cache(self):
-        (self.w / "reviews.txt").write_text("Great app\nSabry")
+        (self.w / "reviews.txt").write_bytes(b"Great app\nSabry")      # bytes: Windows write_text would make \r\n
         (self.w / "index.html").write_text('<a href="reviews.txt">r</a>')
         cache = self.d / "cache"
         r = ads.fetch_remote_text(self.url, "reviews.txt", "reviews.txt", cache)
