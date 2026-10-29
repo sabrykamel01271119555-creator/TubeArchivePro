@@ -1,0 +1,10 @@
+# Contact us
+We would love to hear from you - questions, ideas and problems are all welcome.
+
+## Sabry Kamel - developer
+[icon:email] E-mail :: sabry.kamel2024@gmail.com
+[icon:whatsapp] WhatsApp :: [Chat on WhatsApp](https://wa.me/201271119555)
+[icon:facebook] Facebook :: [facebook.com/sabry.kamel.12](https://www.facebook.com/sabry.kamel.12)
+[icon:youtube] YouTube :: [Let's Have Fun - Active Mind](https://www.youtube.com/@LetsHaveFun-ActiveMind)
+
+> When you report a problem please write the program version ({version}) and attach the file data/error.log if it exists.

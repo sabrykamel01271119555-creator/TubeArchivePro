@@ -1,0 +1,28 @@
+# About TubeArchive Pro
+> Your personal YouTube archive - download, organise and keep up to date.
+
+~ Version {version}  ·  2026  ·  Developed by Sabry Kamel
+
+## What the application does
+TubeArchive Pro is a Windows application that downloads YouTube videos, audio tracks and complete playlists in the quality you choose, and keeps everything organised so you can always find it again.
+
+## Main features
+- **Download videos and audio** - MP4, MKV, WEBM, AVI for video; MP3 and WAV for audio, in the qualities that the video really offers.
+- **Smart download queue** - several files download at the same time (you choose how many); the rest wait and start by themselves. Pause, resume, cancel or skip any file.
+- **Playlists** - a playlist is downloaded video by video, numbered 01, 02, 03 ..., with a progress bar for the current file and for the whole playlist.
+- **Playlist Sync** - the application checks your playlists on the schedule you set (daily, weekly, monthly) and downloads only the new videos.
+- **Archive** - everything you downloaded, in three vaults: Videos, Audio and Playlists.
+- **Library** - your favourite videos sorted in categories such as Cinema or Music, each with its own icon.
+- **Details** - the description of every video is saved with it, together with direct links to its folder and its web page.
+- **Space check** - before a download starts the application compares the estimated size with the free space of the target drive and warns you in time.
+- **Live gauges** - network speed, application speed, downloaded size, free disk space, disk activity and the download queue.
+- **Two languages** - English and Arabic, switched from the globe icon.
+
+## The developer
+**Sabry Kamel** - software developer.
+
+## The owner
+The application is powered by the YouTube channel **Let's Have Fun**.
+
+## Thanks
+TubeArchive Pro is built on the free tools yt-dlp and FFmpeg. Thank you to everyone who rates the program and sends ideas.

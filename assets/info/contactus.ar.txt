@@ -1,0 +1,10 @@
+# اتصل بنا
+يسعدنا أن نسمع منك - الأسئلة والأفكار والمشكلات كلها مرحّب بها.
+
+## صبري كامل - المطوّر
+[icon:email] البريد الإلكتروني :: sabry.kamel2024@gmail.com
+[icon:whatsapp] واتساب :: [راسلنا على واتساب](https://wa.me/201271119555)
+[icon:facebook] فيسبوك :: [facebook.com/sabry.kamel.12](https://www.facebook.com/sabry.kamel.12)
+[icon:youtube] يوتيوب :: [Let's Have Fun - Active Mind](https://www.youtube.com/@LetsHaveFun-ActiveMind)
+
+> عند الإبلاغ عن مشكلة اكتب رقم إصدار البرنامج ({version}) وأرفق الملف data/error.log إن وُجد.
