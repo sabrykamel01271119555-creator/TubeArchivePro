@@ -1,21 +1,17 @@
-[application]
-current_version = 2.3.6
-url = https://github.com/sabrykamel01271119555-creator/TubeArchivePro/releases/download/v2.3.6/tubearchivepro_v2.3.6.exe
-
-[image:1]
-file_name = TubeArchivePro-2026-10_1.gif
-url = https://github.com/sabrykamel01271119555-creator/TubeArchivePro/blob/main/TubeArchivePro-2026-10_1.gif
-href = https://www.youtube.com/@LetsHaveFun-ActiveMind
-display = yes
-
-[image:2]
-file_name = TubeArchivePro-2026-10_2.gif
-url = https://github.com/sabrykamel01271119555-creator/TubeArchivePro/blob/main/TubeArchivePro-2026-10_2.gif
-href = https://www.youtube.com/@LetsHaveFun-ActiveMind
-display = yes
-
-[image:3]
-file_name = TubeArchivePro-2026-10_3.gif
-url = https://github.com/sabrykamel01271119555-creator/TubeArchivePro/blob/main/TubeArchivePro-2026-10_3.gif
-href = https://www.youtube.com/@LetsHaveFun-ActiveMind
-display = yes
+TAE1:
+VEFFMZm5RjGjD85FxMCWwpCoMOLmFMbSTMqlpl4dNOGMwMfM8sdXoluf0Yc1qEgTjx7/lmULo96W
+bYlBKxmuWztyPJboFrDgti8FIcYhHiK4EAIVpJoYUaAjHGi9jl10iMeS5qNTFnSgBHzPE9TFHq2U
+6cxdcAp9Bt0buDqKWYboZAxlwn9hu01el6YPzjwY1tSSU6rUC9CMWzjYgFWFay8gEeOPgEmOVGbd
+d+vq/WEUjc8MdVzARTPIF3nTpvCLn0fVgzkc8/mYPmvv3Y8cn83c4YnO5zLVviS1b3jVUze9Z6SA
+wxq61J+1me43jd8J0O2J1QIsu2cMwldcxa3zTp1U/HXF3PDEKFfDjkj0rZekgDxT0G3q+AUlI1vQ
+akG7rFb1RKK8om/8+y3TJHWMXQr1GdbtMLEgfYGdBiWt7hkj02G6ibV7sB7fYu5DXVUsNmtbub73
+W/KafBVW69I6tv3UnQefeiHD6QGLQ/hAgah4qVsBwQ5bJMM6M/gQ3oCHhM29oBKhxzEBb2huUfzq
+uA/8TeMEZG1IAe8F8htUkrKerSVCvpFuXriBQL1ULpci/I5l4UtTtL/MJN5yXhnGKwEnDes1tS0b
++YC+DQ76ezlwDGmGt4W3IpNnG3fI6JPhsskhau8bOCbNMX1dDiQkmJga9ohIwkiVBOdnpU/ibKV4
+n7twO5248o2nOGfNlEPclB8RbekuBn/BbuaAwwdVk48FxnaUn1HyTiKxzB94UkI8DwBL3YfDx3DZ
+3KndgyALR9syjlQubP7EVZwUVg3aSIls+k2oXPBzv8nu1kJ++aDnJ88eUt9GNdA2abEd8A8I6pF6
+4/4IQVL7Mpsm5RVx0mzmZ8ac0hBqS9UISRTykuw1i2TQb5junX8ZNSNxT4td7XkCiSOvYH9BFXHd
+dUmu5nPL7wR7JVG5wi3RnYy6tlps6ONEE06LkOEhCBPftuhRvicfxYcOkuVy9s35PsP/CmcAFXJJ
+Ss8GegAUi8aa2Jh2oUlYtAD+ERkQug/URzURD9hvOJb4QeKhVqx8Yte+WkVoGg1o436FDLZMe/e9
+6TnVmqNQNTz4trqvSENui5xeAL9dlwyG7pP0dmYj64/aukQmrFfzV2i6lkECrdvZxTsJHBHn9J9v
+yCQvux4WSPdQTOtuFwFaGtcWArGVEPP9sCcrhlwcEBxf3P4gRRoUh0QqAlTG2w==
