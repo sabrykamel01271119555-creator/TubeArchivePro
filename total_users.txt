@@ -1,5 +1,3 @@
-1.0.0 = 25
-1.0.2 = 22
-1.0.5 = 40
-2.0.1 = 65
-2.2.3 = 72
+TAE1:
+VEFFMXXJXGSNfaOcBMW+cOAnyEbbFcue2RETerSaXOwQbc+f16DUSXDLFEun7swgohqMBqC5/zBo
+wQVeBMs5oraFQ5ImcUR3xaVspu9nLJ/sFxo8tAVdtAxvZD3UNb5CCRaIHOKtWIJMksTcKoq3rw==
