@@ -1,6 +1,6 @@
 [application]
-current_version = 2.3.7
-url = https://github.com/sabrykamel01271119555-creator/TubeArchivePro/releases/download/version2.3.7/TubeArchivePro_Setup_2.3.7.exe
+current_version = 3.0.1
+url = https://github.com/sabrykamel01271119555-creator/TubeArchivePro/releases/download/version3.0.1/TubeArchivePro_Setupb3.0.1.exe
 
 TAE1:
 VEFFMaqBEptBP5wUbnvo3LN/TLuRTC3Y7/8FKP+2JKmkuPjhzw5pA7l0nje3zOJYKpemzfAidHPT
